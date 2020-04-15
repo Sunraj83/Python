@@ -1,0 +1,111 @@
+
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 11
+
+Destination Island(s) Selected         : Big Island
+Month of Vacation                           : April
+Property Status                               : 5.0 stars
+Number of Nights                           : 5
+Total Itinerary Cost                        : $1510.212  
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 10
+
+Destination Island(s) Selected         : Mauii
+Month of Vacation                           : June
+Property Status                               : 3.0 stars
+Number of Nights                           : 4
+Total Itinerary Cost                        : $858.075   
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 9
+
+Destination Island(s) Selected         : Oahu
+Month of Vacation                           : Febraury
+Property Status                               : 3.0 stars
+Number of Nights                           : 4
+Total Itinerary Cost                        : $441.446   
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 8
+
+Destination Island(s) Selected         : Big Island
+Month of Vacation                           : April
+Property Status                               : 5.0 stars
+Number of Nights                           : 6
+Total Itinerary Cost                        : $1812.254  
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 7
+
+Destination Island(s) Selected         : Mauii
+Month of Vacation                           : January
+Property Status                               : 5.0 stars
+Number of Nights                           : 3
+Total Itinerary Cost                        : $965.334   
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 6
+
+Destination Island(s) Selected         : Oahu
+Month of Vacation                           : January
+Property Status                               : 1.0 stars
+Number of Nights                           : 1
+Total Itinerary Cost                        : $43.110    
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 5
+
+Destination Island(s) Selected         : Big Island
+Month of Vacation                           : Febraury
+Property Status                               : 2.0 stars
+Number of Nights                           : 3
+Total Itinerary Cost                        : $175.734   
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 4
+
+Destination Island(s) Selected         : Oahu
+Month of Vacation                           : January
+Property Status                               : 1.0 stars
+Number of Nights                           : 1
+Total Itinerary Cost                        : $43.110    
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 3
+
+Destination Island(s) Selected         : Mauii
+Month of Vacation                           : May
+Property Status                               : 3.0 stars
+Number of Nights                           : 8
+Total Itinerary Cost                        : $1670.386  
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 2
+
+Destination Island(s) Selected         : Big Island
+Month of Vacation                           : Febraury
+Property Status                               : 6.0 stars
+Number of Nights                           : 5
+Total Itinerary Cost                        : $2219.554  
+-----------------------------------------------------------------
+Hawaii Trip Cost Estimation
+------------------------------------------------------------------
+Itinerary # : 1         
+
+Destination Island(s) Selected         : Oahu
+Month of Vacation                           : Febraury
+Property Status                               : 2.0 stars
+Number of Nights                           : 2
+Total Itinerary Cost                        : $170.141   
+-----------------------------------------------------------------
